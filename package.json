@@ -1,7 +1,7 @@
 {
-  "name": "practice",
+  "name": "ostad-assignment-5",
   "version": "1.0.0",
-  "description": "Back-End-Server project",
+  "description": "Back-End-Server project assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
